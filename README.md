@@ -18,19 +18,18 @@
 - 📱 Aplicación desarrollada en **Android Studio**
 - 🖥️ Proyecto de escritorio con **.NET**
 
-*(Próximamente compartiré más detalles y repos públicos)*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioMiguelo0090&show_icons=true&theme=github_dark" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMiguelo0090&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
-> ⚠️ Reemplaza `TU-USUARIO-GITHUB` con tu nombre de usuario real de GitHub para que funcione correctamente.
+> 
 
 ---
 
